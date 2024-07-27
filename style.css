@@ -1,0 +1,31 @@
+*{
+    font-family:Arial, Helvetica, sans-serif;
+    color: rgb(37, 37, 138);
+}
+h3{
+    font-family: monospace;
+    font-size: 20px;
+    color:hotpink
+}
+#job{
+    color:hotpink;
+    font-family:monospace;
+    font-size:25px
+}
+.day{
+    font-style: italic;
+    font-size: 13px;
+}
+img:hover{
+    width: 40%;
+}
+a:hover{
+    color:rgb(189, 123, 251)
+}
+h2:hover{
+    color:blue;
+    font-size: 25px;
+}
+h1:hover{
+    font-size: 50px;
+}
